@@ -47,3 +47,13 @@ Link do projeto: [Link]()
 Link do projeto: [Link]()
 
 > Obs.: Falta a definição do líder.
+
+## (5) Nome do Projeto: Administração do inventário da Biblioteca do IFBA - Campus Euclides da Cunha
+
+- Dhomini Andrade dos Santos (Dhominikof@gmail.com);
+- Joedson da Silva Souza (joedsonsouza.ifba.br@gmail.com);
+- Magnum Soares de Amurim Pereira Ferreira (magnumsapf@gmail.com);
+- Mycaelly Jaqueline Matias de Oliveira (mycaellyjm@gmail.com);
+- Roberto Santos Nascimento (robertosanttos392@gmail.com) \*
+
+Link do projeto: [Link]()
